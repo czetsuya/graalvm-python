@@ -1,3 +1,5 @@
+*If you would like to support these tutorials, you can contribute to my [Patreon account](https://patreon.com/czetsuya.)
+
 # GraalVM Python
 
 This is a demonstration project on how you can run other programming languages such as Javascript and Python
