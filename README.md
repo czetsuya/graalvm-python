@@ -3,7 +3,7 @@
 # GraalVM Python
 
 This is a demonstration project on how you can run other programming languages such as Javascript and Python
-in a Java application using Quarkus framework.
+in a Java application using GraalVM and Quarkus framework.
 
 ## Preparing the local environment
 
